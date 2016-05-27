@@ -1,1 +1,2 @@
-this is our third.txt file
+this is our third.txt file.
+and it is boring.

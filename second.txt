@@ -1,1 +1,2 @@
-this is our second.txt file
+this is our second.txt file.
+and it is cool.
