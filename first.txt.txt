@@ -1,1 +1,1 @@
-this is our first.txt file.
+this is our first.txt file and it has some properties.
