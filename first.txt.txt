@@ -1,1 +1,3 @@
 this is our first.txt file and it has some properties.
+
+this was created by shaun micheals.
